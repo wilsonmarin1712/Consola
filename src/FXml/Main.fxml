@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.chart.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="355.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Box layoutX="104.0" layoutY="124.0" />
+      <ImageView fitHeight="407.0" fitWidth="612.0" layoutX="-6.0" layoutY="-5.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="file:C:\Users\wilson\Desktop\eclipse-jee-oxygen-1a-win32-x86_64\eclipse\j\Consola\src\Imagen\Consola.jpg" />
+         </image>
+      </ImageView>
+      <Pane layoutX="14.0" layoutY="-65.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" opacity="0.9" prefHeight="413.0" prefWidth="600.0">
+         <children>
+            <Pane layoutX="194.0" layoutY="24.0" prefHeight="378.0" prefWidth="406.0">
+               <children>
+                  <ScrollBar layoutX="50.0" layoutY="309.0" />
+                  <ProgressIndicator layoutX="190.0" layoutY="180.0" prefHeight="192.0" prefWidth="222.0" progress="0.29" />
+                  <ScrollBar layoutX="364.0" layoutY="52.0" orientation="VERTICAL" />
+                  <StackPane layoutX="-157.0" layoutY="-12.0" />
+                  <ScrollBar layoutX="56.0" layoutY="217.0" orientation="VERTICAL" prefHeight="69.0" prefWidth="14.0" />
+                  <ScrollBar layoutX="129.0" layoutY="217.0" orientation="VERTICAL" prefHeight="69.0" prefWidth="14.0" />
+                  <Circle layoutX="7.0" layoutY="139.0" radius="13.0" stroke="BLACK" strokeType="INSIDE">
+                     <fill>
+                        <LinearGradient endX="1.0" endY="1.0">
+                           <stops>
+                              <Stop color="BLACK" />
+                              <Stop color="#0eb55d" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </fill>
+                  </Circle>
+                  <Circle layoutX="7.0" layoutY="89.0" radius="13.0" stroke="BLACK" strokeType="INSIDE">
+                     <fill>
+                        <LinearGradient endX="1.0" endY="1.0">
+                           <stops>
+                              <Stop color="BLACK" />
+                              <Stop color="#0eb55d" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </fill>
+                  </Circle>
+                  <Circle layoutX="100.0" layoutY="139.0" radius="13.0" stroke="BLACK" strokeType="INSIDE">
+                     <fill>
+                        <LinearGradient endX="1.0" endY="1.0">
+                           <stops>
+                              <Stop color="BLACK" />
+                              <Stop color="#0eb55d" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </fill>
+                  </Circle>
+                  <Circle layoutX="203.0" layoutY="89.0" radius="13.0" stroke="BLACK" strokeType="INSIDE">
+                     <fill>
+                        <LinearGradient endX="1.0" endY="1.0">
+                           <stops>
+                              <Stop color="BLACK" />
+                              <Stop color="#0eb55d" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </fill>
+                  </Circle>
+                  <Circle layoutX="203.0" layoutY="139.0" radius="13.0" stroke="BLACK" strokeType="INSIDE">
+                     <fill>
+                        <LinearGradient endX="1.0" endY="1.0">
+                           <stops>
+                              <Stop color="BLACK" />
+                              <Stop color="#0eb55d" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </fill>
+                  </Circle>
+                  <Circle layoutX="201.0" layoutY="197.0" radius="13.0" stroke="BLACK" strokeType="INSIDE">
+                     <fill>
+                        <LinearGradient endX="1.0" endY="1.0">
+                           <stops>
+                              <Stop color="BLACK" />
+                              <Stop color="#0eb55d" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </fill>
+                  </Circle>
+               </children>
+            </Pane>
+            <Box layoutX="104.0" layoutY="124.0" />
+            <ProgressIndicator layoutX="14.0" layoutY="213.0" prefHeight="181.0" prefWidth="208.0" progress="0.63" />
+            <ScrollBar layoutX="50.0" layoutY="75.0" orientation="VERTICAL" />
+            <Circle layoutX="201.0" layoutY="221.0" radius="13.0" stroke="BLACK" strokeType="INSIDE">
+               <fill>
+                  <LinearGradient endX="1.0" endY="1.0">
+                     <stops>
+                        <Stop color="BLACK" />
+                        <Stop color="#0eb55d" offset="1.0" />
+                     </stops>
+                  </LinearGradient>
+               </fill>
+            </Circle>
+         </children>
+      </Pane>
+   </children>
+</Pane>
